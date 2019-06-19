@@ -1,0 +1,7 @@
+.save-btn{
+    float: right;
+    background-color: slategray;
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+}

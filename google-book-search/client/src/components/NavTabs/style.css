@@ -1,0 +1,11 @@
+.nav {
+    background: slategray;
+    padding: 10px;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 3rem;
+    margin-right: 20px;
+}

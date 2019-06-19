@@ -1,0 +1,18 @@
+.logo-position{
+    align-self: center;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 6.5rem;
+    margin: 100px;
+    color: white;
+    text-shadow: 3px 3px slategray;
+}

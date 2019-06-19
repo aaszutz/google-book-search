@@ -1,0 +1,22 @@
+body {
+  background: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/rhqunD2Gioflxfgx/videoblocks-guy-comes-in-and-sits-down-at-the-table-with-books-black-background_bf-aiqbw2e_thumbnail-full01.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.results {
+  background: white;
+  padding-bottom: 20px;
+}
+
+.search-status {
+  color: white;
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  text-shadow: 2px 2px black;
+}
+
+.form-control {
+  font-family: 'Playfair Display', serif;
+}
